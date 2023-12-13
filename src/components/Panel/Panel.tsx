@@ -1,4 +1,4 @@
-import '../styles/panel.css'
+import '../../styles/panel.css'
 export default function Panel() {
   return (
     <main>
